@@ -1,15 +1,15 @@
-package br.com.alura.tabelafipe;
+package br.com.project.tabelafipe;
 
-import br.com.alura.tabelafipe.principal.Principal;
+import br.com.project.tabelafipe.principal.Principal;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TabelafipeApplication implements CommandLineRunner {
+public class TabelaFipeApplication implements CommandLineRunner {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TabelafipeApplication.class, args);
+		SpringApplication.run(TabelaFipeApplication.class, args);
 	}
 
 	@Override
