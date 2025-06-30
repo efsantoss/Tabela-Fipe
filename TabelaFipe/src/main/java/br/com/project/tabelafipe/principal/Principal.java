@@ -1,10 +1,10 @@
 package br.com.project.tabelafipe.principal;
 
-import br.com.alura.tabelafipe.model.Dados;
-import br.com.alura.tabelafipe.model.Modelos;
-import br.com.alura.tabelafipe.model.Veiculo;
-import br.com.alura.tabelafipe.service.ConsumoApi;
-import br.com.alura.tabelafipe.service.ConverteDados;
+import br.com.project.tabelafipe.model.Dados;
+import br.com.project.tabelafipe.model.Modelos;
+import br.com.project.tabelafipe.model.Veiculo;
+import br.com.project.tabelafipe.service.ConsumoApi;
+import br.com.project.tabelafipe.service.ConverteDados;
 
 import java.util.ArrayList;
 import java.util.Comparator;
