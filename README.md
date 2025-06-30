@@ -1,4 +1,4 @@
-🚗 Vehicle Price Consultation – FIPE API Integration
+# 🚗 Vehicle Price Consultation – FIPE API Integration
 A Java project developed with Spring Framework to simulate and enhance the experience of consulting average vehicle prices based on the Brazilian FIPE table.
 
 This challenge project mirrors the official FIPE website flow while adding useful improvements like full-year evaluations and terminal-based interaction.
